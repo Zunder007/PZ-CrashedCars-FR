@@ -1,0 +1,139 @@
+IG_UI_FR = {
+IGUI_VehicleNameBurntCar = "Voiture accidentée %1",
+IGUI_VehicleType_0 = "Voiture accidentée",
+
+
+
+
+
+
+IGUI_VehicleNamePickupBurnt = "Chevalier D6",
+IGUI_VehicleNamePickupRedBurnt = "Chevalier D6",
+IGUI_VehicleNamePickupBlueBurnt = "Chevalier D6",
+IGUI_VehicleNamePickupGreenBurnt = "Chevalier D6",
+IGUI_VehicleNameCarNormalBurnt = "Chevalier Nyala",
+IGUI_VehicleNameCarNormal02RedBurnt = "Chevalier Nyala",
+IGUI_VehicleNameCarNormal02GreenBurnt = "Chevalier Nyala",
+IGUI_VehicleNameCarNormal02BlueBurnt = "Chevalier Nyala",
+IGUI_VehicleNameWagon02CrashedBurnt = "Chevalier Cerise Wagon",
+IGUI_VehicleNameWagon02BlueCrashedBurnt = "Chevalier Cerise Wagon",
+IGUI_VehicleNameWagon02DarkCrashedBurnt = "Chevalier Cerise Wagon",
+IGUI_VehicleNameTaxiBurnt = "Taxi",
+IGUI_VehicleNameModernCar02Burnt = "Chevalier Primani",
+IGUI_VehicleNameModernCar02BlackBurnt = "Chevalier Primani",
+IGUI_VehicleNameModernCar02BlueBurnt = "Chevalier Primani",
+IGUI_VehicleNameModernCar02GrayBurnt = "Chevalier Primani",
+IGUI_VehicleNameModernCar02GreenBurnt = "Chevalier Primani",
+IGUI_VehicleNameModernCar02RedBurnt = "Chevalier Primani",
+IGUI_VehicleNameModernCar02WhiteBurnt = "Chevalier Primani",
+IGUI_VehicleNameModernCarBurnt = "Dash Elite",
+IGUI_VehicleNameModernCarBrownBurnt = "Dash Elite",
+IGUI_VehicleNameModernCarPurpleBurnt = "Dash Elite",
+IGUI_VehicleNameModernCarWhiteBurnt = "Dash Elite",
+IGUI_VehicleNameWagonCrashedRedBurnt = "Chevalier Cerise Wagon",
+IGUI_VehicleNameNormalCrashedBurnt = "Chevalier Nyala",
+IGUI_VehicleNameNormalCrashedBlackBurnt = "Chevalier Nyala",
+IGUI_VehicleNameNormalCrashedGreenBurnt = "Chevalier Nyala",
+IGUI_VehicleNameNormalCrashedRedBurnt = "Chevalier Nyala",
+
+IGUI_VehicleNameModernPurpleCrashedBurnt = "Dash Elite",
+IGUI_VehicleNameModernBrownCrashedBurnt = "Dash Elite",
+IGUI_VehicleNameModernRedCrashedBurnt = "Dash Elite",
+IGUI_VehicleNameModernWhiteCrashedBurnt = "Dash Elite",
+
+IGUI_VehicleNameWagonCrashedDarkBurnt = "Chevalier Cerise Wagon",
+IGUI_VehicleNameWagonCrashedBlueBurnt = "Chevalier Cerise Wagon",
+IGUI_VehicleNameWagonCrashedOrangeBurnt = "Chevalier Cerise Wagon",
+
+IGUI_VehicleNameSUVCrashedBurnt = "Franklin Tout terrain",
+IGUI_VehicleNameSUVBlueCrashedBurnt = "Franklin Tout terrain",
+IGUI_VehicleNameSUVGreenCrashedBurnt = "Franklin Tout terrain",
+IGUI_VehicleNameSUVBlackCrashedBurnt = "Franklin Tout terrain",
+IGUI_VehicleNameSUVRedCrashedBurnt = "Franklin Tout terrain",
+IGUI_VehicleNameSUV2CrashedBurnt = "Franklin Tout terrain",
+IGUI_VehicleNameSUV2BlueCrashedBurnt = "Franklin Tout terrain",
+IGUI_VehicleNameSUV2GreenCrashedBurnt = "Franklin Tout terrain",
+IGUI_VehicleNameSUV2BlackCrashedBurnt = "Franklin Tout terrain",
+IGUI_VehicleNameSUV2RedCrashedBurnt = "Franklin Tout terrain",
+
+IGUI_VehicleNameSmall2PurpleCrashedBurnt = "Chevalier Dart",
+IGUI_VehicleNameSmall2RedCrashedBurnt = "Chevalier Dart",
+IGUI_VehicleNameSmall2PinkCrashedBurnt = "Chevalier Dart",
+IGUI_VehicleNameSmall2FlippedCrashedBurnt = "Chevalier Dart",
+
+IGUI_VehicleNameSmallBlueCrashedBurnt = "Chevalier Dart",
+IGUI_VehicleNameSmallBlackCrashedBurnt = "Chevalier Dart",
+IGUI_VehicleNameSmallOrangeCrashedBurnt= "Chevalier Dart",
+IGUI_VehicleNameSmallGreenCrashedBurnt = "Chevalier Dart",
+IGUI_VehicleNameSmall2BlueCrashedBurnt = "Chevalier Dart",
+IGUI_VehicleNameSmall2BlackCrashedBurnt = "Chevalier Dart",
+
+IGUI_VehicleNameTaxi1CrashedBurnt = "Taxi",
+IGUI_VehicleNameTaxi1color2CrashedBurnt = "Taxi",
+IGUI_VehicleNameTaxi2CrashedBurnt = "Taxi",
+IGUI_VehicleNameTaxi2color2CrashedBurnt = "Taxi",
+
+IGUI_VehicleNamePickUpVanLightsBurnt = "Police Dash Bulldriver",
+
+IGUI_VehicleNamePickUpVanLightsRangerBurnt = "Ranger Dash Bulldriver",
+
+IGUI_VehicleNamePickUpVanLightsFireBurnt = "Pompier Dash Bulldriver",
+
+IGUI_VehicleNamePickUpVanFossoilBurnt = "Fossoil Dash Bulldriver",
+
+IGUI_VehicleNameAmbulanceCrashedBurnt = "Ambulance",
+
+IGUI_VehicleNamePickupSpecialBurnt = "Chevalier D6",
+
+IGUI_VehicleNameNormalCarBurntPolice = "Police Chevalier Nyala",
+
+IGUI_VehicleNameNormalCarBurntRanger = "Ranger Chevalier Nyala",
+
+IGUI_VehicleNameModernCrashedBurnt = "Dash Elite",
+
+IGUI_VehicleNameSUVBurnt = "Franklin Tout terrain",
+
+IGUI_VehicleNameSportsCarGreenBurnt = "Chevalier Cossette",
+IGUI_VehicleNameSportsCarBlueBurnt = "Chevalier Cossette",
+IGUI_VehicleNameSportsCarBurnt = "Chevalier Cossette",
+
+IGUI_VehicleNameSUVBlackBloody1CrashedBurnt = "Franklin Tout terrain",
+IGUI_VehicleNameSUVBlueBloody1CrashedBurnt = "Franklin Tout terrain",
+IGUI_VehicleNameSUVGreenBloody1CrashedBurnt = "Franklin Tout terrain",
+
+IGUI_VehicleNameTaxiBloodySpecialCrashedBurnt = "Taxi",
+IGUI_VehicleNameTaxi2SpecialCrashedBurnt = "Taxi",
+
+IGUI_VehicleNamePickUpVanLightsFireBloodyBurnt = "Dash Bulldriver",
+
+IGUI_VehicleNameAmbulanceBloodyCrashedBurnt = "Ambulance",
+
+IGUI_VehicleNameVanRadioBloodyBurnt = "Radio Van",
+
+IGUI_VehicleNamePickupSpecialBloodyBurnt = "Chevalier D6",
+IGUI_VehicleNameNormalCarBurntBloodyPolice = "Police Chevalier Nyala",
+
+IGUI_VehicleNameWagonSpecialBloodyCrashedBurnt = "Chevalier Cerise Wagon",
+
+IGUI_VehicleNameAmbulanceBurntClassic = "Ambulance",
+IGUI_VehicleNamePickupSpecialPoliceBurnt = "Pickup Special Police",
+IGUI_VehicleNamePickupSpecialFossoilBurnt = "Pickup Special Fossoil",
+IGUI_VehicleNamePickUpVanLightsFossoilBurnt = "PickUp Van Fossoil",
+IGUI_VehicleNamePickUpVanLightsPoliceBurnt = "PickUp Van Police",
+IGUI_VehicleNameSmall2CrashedBurnt = "Small car",
+IGUI_VehicleNameCarNormalBurntClassic = "Normal classic",
+IGUI_VehicleNameNormalCarBurntPoliceClassic = "Normal Police car",
+IGUI_VehicleNamePickUpVanLightsBurntClassic = "PickUp Van",
+IGUI_VehicleNameWagonCrashedBurnt = "Wagon",
+IGUI_VehicleNameVanRadioBurntClassic = "Van Radio",
+IGUI_VehicleNameSmallCar02BurntClassic = "Small car classic",
+IGUI_VehicleNamePickupSpecialBurntClassic = "Pickup Special",
+IGUI_VehicleNamePickupBurntClassic = "Pickup classic",
+IGUI_VehicleNameSportsCarBurntClassic = "Sports classic",
+IGUI_VehicleNamePickupSpecialFireBurnt = "Pickup Special Pompier",
+IGUI_VehicleNameTaxiBurntClassic = "Taxi classic",
+IGUI_VehicleNameModernCar02BurntClassic = "Modern classic",
+IGUI_VehicleNameSUVBurntClassic = "SUV classic",
+IGUI_VehicleNameModernCarBurntClassic = "Modern car",
+
+}

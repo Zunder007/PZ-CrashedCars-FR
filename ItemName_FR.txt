@@ -1,0 +1,8 @@
+ItemName_FR = {
+	ItemName_Base.BigTrunk0 = "Épave Coffre Large",
+	ItemName_Base.FrontCarDoor0 = "Épave Porte Avant",
+	ItemName_Base.GloveBox0 = "Épave Boite à gants",
+	ItemName_Base.NormalTrunk0 = "Épave Coffre Standard",
+	ItemName_Base.SmallTrunk0 = "Épave Coffre Petit",
+	ItemName_Base.TrunkDoor0 = "Épave Coffre",
+}
